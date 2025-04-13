@@ -14,7 +14,7 @@ Uses :
 Github is a website that allows developers to store and manage their code using Git. We can upload our progress in folder(repository)
 - [Github Website](https://github.com)
 
-
+---
 
 ## ✅ Step-by-Step Procedure :
 
