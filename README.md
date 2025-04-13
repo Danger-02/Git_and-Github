@@ -1,5 +1,5 @@
-# GIT and GITHUB Complete Understanding : 
-This repository provides a comprehensive guide on how to install and configure an NVIDIA GPU on your system — from installing the drivers to setting up CUDA, cuDNN, and testing your setup with a simple deep learning example.
+# Complete Understanding about GIT and GITHUB : 
+This repository provides a comprehensive guide about what is Git and Github. What are the comands associated with it and everything.
 
 ---
 
